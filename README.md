@@ -11,6 +11,7 @@ WebGL enabled browser and iOS.
   * [Create a libGDX project](https://github.com/libgdx/libgdx/wiki/Project-Setup-Gradle)
     * Import, Run, Debug and Package your project
       * [Eclipse](https://github.com/libgdx/libgdx/wiki/Gradle-and-Eclipse)
+      * 
       * [Intellij IDEA](https://github.com/libgdx/libgdx/wiki/Gradle-and-Intellij-IDEA)
       * [NetBeans](https://github.com/libgdx/libgdx/wiki/Gradle-and-NetBeans)
       * [Commandline](https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline)
